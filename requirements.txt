@@ -1,0 +1,10 @@
+# core =========
+torch>=1.8.1
+torchvision>=0.2.2
+pandas>=1.2.4
+
+# text preprocessing
+nltk>=3.6.2
+
+# plot
+tqdm
