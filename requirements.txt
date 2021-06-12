@@ -2,9 +2,13 @@
 torch>=1.8.1
 torchvision>=0.2.2
 pandas>=1.2.4
+torchtext>=0.9.1
 
 # text preprocessing
 nltk>=3.6.2
+setuptools
+wheel
+scapy>=2.4.5
 
 # plot
 tqdm
